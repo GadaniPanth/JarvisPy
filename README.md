@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @GadaniPanth
+-THis project is under PROGRESS.
+
+-Currently USing g4f module as Ai for my Jarvis assistant.
+
+- 👋 Hi, I’m Gadani Panth
 - 👀 I’m interested in COding
 - 🌱 I’m currently learning CE
-- 💞️ I’m looking to collaborate on Java Related Things
+- 💞️ I’m looking to collaborate on Python Ai/ML Related Things
 - 📫 How to reach me gadanipanth@gmail.com
 
 <!---
